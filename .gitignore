@@ -1,0 +1,8 @@
+*.ipch
+/HELLOCV/.vs/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.log
+*.tlog/
